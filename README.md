@@ -1,0 +1,2 @@
+# jibcoin-project
+JibCoin
